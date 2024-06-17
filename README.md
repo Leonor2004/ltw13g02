@@ -1,10 +1,22 @@
 # DEALIFY
-​
-## Group ltw13g02
-​
-- Filipa Fidalgo (up202208039) 33.3%
-- Leonor Couto (up202205796) 33.3%
-- Pedro Oliveira (up202206498) 33.3%
+LTW Project
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+- **Project name:** LTW13G02
+- **Short description:** Second-hand Store
+- **Environment:** Web
+- **Tools:** HTML/PHP/JS
+- **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
+- **Course:** [LTW](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520324) (Web Languages and Technologies)
+- **Project grade:** 19.1
+- **Group members:**
+  - Filipa Fidalgo (up202208039@up.pt),
+  - Leonor Couto (up202205796@up.pt),
+  - Pedro Oliveira (up202206498@up.pt).
+
+---
 ​
 ## Install Instructions
 ​​
